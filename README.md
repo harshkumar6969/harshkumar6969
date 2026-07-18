@@ -1,38 +1,53 @@
-<h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer | B.Tech CSE Student | Passionate about Building Modern Web Applications
-</h3>
+# Hi 👋 I'm Harsh Kumar
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;TypeScript+Developer;Always+Learning+New+Technologies" />
-</p>
+### 🚀 Full Stack Developer • B.Tech CSE Student • India
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;TypeScript+Developer;Building+Real+World+Projects;Always+Learning+New+Things+🚀" />
 
-## 🚀 About Me
-
-- 🎓 B.Tech Computer Science Engineering Student
-- 💻 Full Stack Developer
-- 🌱 Currently learning Advanced React, Next.js & Backend Development
-- ⚡ Passionate about creating scalable and user-friendly web applications
-- 🎯 Aspiring Software Engineer
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+# 💫 About Me
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+🎓 B.Tech Computer Science Engineering Student
+
+💻 Passionate Full Stack Web Developer
+
+🌱 Currently learning
+
+- Advanced React
+- Next.js
+- Backend Architecture
+- System Design
+
+🔥 Love solving real-world problems through code.
+
+🎯 Goal:
+Become a Software Engineer and contribute to impactful products.
+
+---
+
+# 🛠 Tech Stack
 
 ### Frontend
+
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind" />
 </p>
 
 ### Backend
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### Tools & Technologies
+### Tools
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
@@ -42,51 +57,71 @@ Full Stack Developer | B.Tech CSE Student | Passionate about Building Modern Web
 # 🚀 Featured Projects
 
 ## 🏡 ReadyNest Form Builder
-- Dynamic Drag & Drop Form Builder
-- Authentication & Authorization
-- Responsive UI
-- TypeScript
-- Modern Dashboard
+
+✔ Drag & Drop Form Builder
+
+✔ Authentication
+
+✔ Responsive UI
+
+✔ TypeScript
+
+✔ Modern Dashboard
 
 ---
 
 ## 🌐 SyncSphere
-- Real-Time Collaboration
-- Socket.IO
-- Express.js
-- MongoDB
-- REST APIs
+
+✔ Real-Time Collaboration
+
+✔ Socket.IO
+
+✔ Express.js
+
+✔ MongoDB
+
+✔ REST APIs
 
 ---
 
 ## 🏫 Smart Campus Utility App
-- Student Utility Platform
-- Responsive Design
-- User-Friendly Dashboard
+
+✔ Student Utility Platform
+
+✔ Responsive Dashboard
+
+✔ Modern UI
 
 ---
 
 ## 📸 Mini Instagram Clone
-- User Authentication
-- Image Uploads
-- React
-- Express.js
-- MongoDB
+
+✔ User Authentication
+
+✔ Image Upload
+
+✔ React
+
+✔ Express.js
+
+✔ MongoDB
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshkumar6969&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
 
-<p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumar6969&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar6969&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -94,7 +129,9 @@ Full Stack Developer | B.Tech CSE Student | Passionate about Building Modern Web
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harshkumar6969&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshkumar6969&theme=tokyonight&row=1&column=7&no-frame=true"/>
+
 </p>
 
 ---
@@ -102,51 +139,69 @@ Full Stack Developer | B.Tech CSE Student | Passionate about Building Modern Web
 # 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshkumar6969&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-# 🌱 Currently Learning
+# 💻 Currently Working On
 
-- Advanced React
-- Next.js
-- TypeScript
-- Backend Architecture
-- REST APIs
-- Socket.IO
-- Database Optimization
+🚀 Full Stack Applications
+
+⚡ REST APIs
+
+⚡ Real-Time Applications
+
+⚡ Modern UI/UX
+
+⚡ Backend Development
 
 ---
 
-# 🤝 Connect With Me
+# 📫 Connect With Me
 
-<p align="left">
-<a href="https://github.com/harshkumar6969">
-<img src="https://skillicons.dev/icons?i=github"/>
+<p align="center">
+
+<a href="mailto:harshkumar2005q@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://in.linkedin.com/in/harsh-kumar-b523bb351">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:harshkumar2005q@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="https://github.com/harshkumar6969">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
+
 </p>
 
-**📧 Email:** harshkumar2005q@gmail.com
+<div align="center">
 
-**💼 LinkedIn:** https://in.linkedin.com/in/harsh-kumar-b523bb351
+📧 **Email**
 
-**🌐 GitHub:** https://github.com/harshkumar6969
+**harshkumar2005q@gmail.com**
+
+💼 **LinkedIn**
+
+**https://in.linkedin.com/in/harsh-kumar-b523bb351**
+
+🌐 **GitHub**
+
+**https://github.com/harshkumar6969**
+
+</div>
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=harshkumar6969&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+<div align="center">
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! Happy Coding 🚀
-</h3>
+![](https://komarev.com/ghpvc/?username=harshkumar6969&style=for-the-badge&color=blue)
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+**"Code • Learn • Build • Repeat" 🚀**
+
+</div>
