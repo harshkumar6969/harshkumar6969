@@ -1,26 +1,34 @@
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
-<h3 align="center">🚀 Full Stack Developer | B.Tech CSE Student</h3>
+<h3 align="center">🚀 Full Stack Developer | B.Tech CSE Student | India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;React+Developer;Node.js+Developer;TypeScript+Learner;Always+Learning+New+Things&center=true&width=520&height=45&color=00F7FF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;React+Developer;Node.js+Developer;Always+Learning+New+Things&center=true&width=520&height=45&color=00F7FF&vCenter=true&size=22">
 </p>
 
 ---
 
-## 🧠 About Me
+# 🌟 About Me
 
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500"/>
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500" alt="Coding GIF"/>
 </p>
 
-- 🎓 B.Tech Computer Science Engineering Student
-- 💻 Passionate about Full Stack Web Development
-- 🚀 Built **ReadyNest Form Builder**
-- 🌐 Developed **SyncSphere – Real-Time Collaboration Platform**
-- 🏫 Created **Smart Campus Utility App**
-- 📸 Built **Mini Instagram Clone**
-- 📚 Currently improving React, Next.js & Backend Development
-- 🎯 Goal: Become a Software Engineer at a Product-Based Company
+🎓 B.Tech Computer Science Engineering Student
+
+💻 Passionate Full Stack Web Developer
+
+🌱 Currently Learning
+
+- Advanced React
+- Next.js
+- Backend Architecture
+- System Design
+
+🔥 Love solving real-world problems through technology
+
+🚀 Building scalable full-stack web applications
+
+🎯 Goal: Become a Software Engineer at a Top Product-Based Company
 
 ---
 
@@ -44,7 +52,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-### 🛢️ Database
+### 🛢️ Databases
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
@@ -94,19 +102,24 @@
 Dynamic drag-and-drop form builder with authentication and responsive UI.
 
 ### 🌐 SyncSphere
-Real-time collaboration platform built with Socket.IO, Express.js and MongoDB.
+Real-time collaboration platform using Express.js, Socket.IO and MongoDB.
 
 ### 🏫 Smart Campus Utility App
-Student utility platform with modern responsive interface.
+Modern utility platform for students with responsive design.
 
 ### 📸 Mini Instagram Clone
-Full-stack social media application with authentication and image uploads.
+Full-stack social media platform with authentication and image uploads.
 
 ---
 
 # 📫 Connect With Me
 
 <p align="center">
+
+<a href="https://github.com/harshkumar6969">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
 <a href="https://in.linkedin.com/in/harsh-kumar-b523bb351">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
@@ -115,15 +128,11 @@ Full-stack social media application with authentication and image uploads.
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/harshkumar6969">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
 </p>
 
 ---
 
-# ❤️ Thanks for Visiting
+# ❤️ Thanks For Visiting
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Thanks+for+visiting!;Keep+Building+🚀;Keep+Learning+💡&center=true&width=520&height=45&color=00F7FF&vCenter=true&size=22">
@@ -131,6 +140,6 @@ Full-stack social media application with authentication and image uploads.
 
 <p align="center">
 
-⭐ If you like my projects, don't forget to star the repositories!
+⭐ If you like my projects, don't forget to star my repositories!
 
 </p>
