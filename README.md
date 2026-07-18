@@ -1,137 +1,81 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
+<h3 align="center">🚀 Full Stack Developer | B.Tech CSE Student</h3>
 
-# Hi 👋 I'm Harsh Kumar
-
-### 🚀 Full Stack Developer • B.Tech CSE Student • India
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;TypeScript+Developer;Building+Real+World+Projects;Always+Learning+New+Things+🚀" />
-
-</div>
-
----
-
-# 💫 About Me
-
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-🎓 B.Tech Computer Science Engineering Student
-
-💻 Passionate Full Stack Web Developer
-
-🌱 Currently learning
-
-- Advanced React
-- Next.js
-- Backend Architecture
-- System Design
-
-🔥 Love solving real-world problems through code.
-
-🎯 Goal:
-Become a Software Engineer and contribute to impactful products.
-
----
-
-# 🛠 Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;React+Developer;Node.js+Developer;TypeScript+Learner;Always+Learning+New+Things&center=true&width=520&height=45&color=00F7FF&vCenter=true&size=22">
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🧠 About Me
 
-## 🏡 ReadyNest Form Builder
+<p align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500"/>
+</p>
 
-✔ Drag & Drop Form Builder
-
-✔ Authentication
-
-✔ Responsive UI
-
-✔ TypeScript
-
-✔ Modern Dashboard
-
----
-
-## 🌐 SyncSphere
-
-✔ Real-Time Collaboration
-
-✔ Socket.IO
-
-✔ Express.js
-
-✔ MongoDB
-
-✔ REST APIs
+- 🎓 B.Tech Computer Science Engineering Student
+- 💻 Passionate about Full Stack Web Development
+- 🚀 Built **ReadyNest Form Builder**
+- 🌐 Developed **SyncSphere – Real-Time Collaboration Platform**
+- 🏫 Created **Smart Campus Utility App**
+- 📸 Built **Mini Instagram Clone**
+- 📚 Currently improving React, Next.js & Backend Development
+- 🎯 Goal: Become a Software Engineer at a Product-Based Company
 
 ---
 
-## 🏫 Smart Campus Utility App
+# 🛠️ Tech Stack
 
-✔ Student Utility Platform
+### 👨‍💻 Languages
 
-✔ Responsive Dashboard
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,java,javascript,typescript"/>
+</p>
 
-✔ Modern UI
+### 🌐 Frontend
 
----
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+</p>
 
-## 📸 Mini Instagram Clone
+### ⚙️ Backend
 
-✔ User Authentication
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
 
-✔ Image Upload
+### 🛢️ Database
 
-✔ React
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
 
-✔ Express.js
+### 🔧 Tools
 
-✔ MongoDB
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=harshkumar6969&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshkumar6969&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumar6969&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar6969&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar6969&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumar6969&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshkumar6969&theme=tokyonight&row=1&column=7&no-frame=true"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=harshkumar6969&theme=algolia&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -139,37 +83,36 @@ Become a Software Engineer and contribute to impactful products.
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshkumar6969&theme=tokyo-night"/>
-
 </p>
 
 ---
 
-# 💻 Currently Working On
+# 🚀 Featured Projects
 
-🚀 Full Stack Applications
+### 🏡 ReadyNest Form Builder
+Dynamic drag-and-drop form builder with authentication and responsive UI.
 
-⚡ REST APIs
+### 🌐 SyncSphere
+Real-time collaboration platform built with Socket.IO, Express.js and MongoDB.
 
-⚡ Real-Time Applications
+### 🏫 Smart Campus Utility App
+Student utility platform with modern responsive interface.
 
-⚡ Modern UI/UX
-
-⚡ Backend Development
+### 📸 Mini Instagram Clone
+Full-stack social media application with authentication and image uploads.
 
 ---
 
 # 📫 Connect With Me
 
 <p align="center">
+<a href="https://in.linkedin.com/in/harsh-kumar-b523bb351">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
 <a href="mailto:harshkumar2005q@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://in.linkedin.com/in/harsh-kumar-b523bb351">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="https://github.com/harshkumar6969">
@@ -178,30 +121,16 @@ Become a Software Engineer and contribute to impactful products.
 
 </p>
 
-<div align="center">
-
-📧 **Email**
-
-**harshkumar2005q@gmail.com**
-
-💼 **LinkedIn**
-
-**https://in.linkedin.com/in/harsh-kumar-b523bb351**
-
-🌐 **GitHub**
-
-**https://github.com/harshkumar6969**
-
-</div>
-
 ---
 
-<div align="center">
+# ❤️ Thanks for Visiting
 
-![](https://komarev.com/ghpvc/?username=harshkumar6969&style=for-the-badge&color=blue)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Thanks+for+visiting!;Keep+Building+🚀;Keep+Learning+💡&center=true&width=520&height=45&color=00F7FF&vCenter=true&size=22">
+</p>
 
-### ⭐ Thanks for visiting my profile! ⭐
+<p align="center">
 
-**"Code • Learn • Build • Repeat" 🚀**
+⭐ If you like my projects, don't forget to star the repositories!
 
-</div>
+</p>
