@@ -12,29 +12,27 @@
 
 # 💫 About Me
 
-<p align="right">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="320"/>
-</p>
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-🎓 **B.Tech Computer Science Engineering Student**
+🎓 B.Tech Computer Science Engineering Student
 
-💻 Passionate **Full Stack Web Developer**
+💻 Passionate Full Stack Web Developer
 
-🌱 Currently Learning
+🌱 Currently learning
 
-- React & Next.js
-- Backend Development
-- TypeScript
-- REST APIs
+- Advanced React
+- Next.js
+- Backend Architecture
 - System Design
 
-🔥 Love building real-world applications with clean UI and scalable backend.
+🔥 Love solving real-world problems through code.
 
-🎯 **Goal:** Become a Software Engineer and contribute to impactful products.
+🎯 Goal:
+Become a Software Engineer and contribute to impactful products.
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 ### Frontend
 
@@ -60,45 +58,70 @@
 
 ## 🏡 ReadyNest Form Builder
 
-- Drag & Drop Form Builder
-- Authentication
-- Responsive UI
-- TypeScript
-- Modern Dashboard
+✔ Drag & Drop Form Builder
+
+✔ Authentication
+
+✔ Responsive UI
+
+✔ TypeScript
+
+✔ Modern Dashboard
+
+---
 
 ## 🌐 SyncSphere
 
-- Real-Time Collaboration
-- Socket.IO
-- Express.js
-- MongoDB
-- REST APIs
+✔ Real-Time Collaboration
+
+✔ Socket.IO
+
+✔ Express.js
+
+✔ MongoDB
+
+✔ REST APIs
+
+---
 
 ## 🏫 Smart Campus Utility App
 
-- Student Utility Platform
-- Responsive Dashboard
-- Modern UI
+✔ Student Utility Platform
+
+✔ Responsive Dashboard
+
+✔ Modern UI
+
+---
 
 ## 📸 Mini Instagram Clone
 
-- Authentication
-- Image Upload
-- React
-- Express.js
-- MongoDB
+✔ User Authentication
+
+✔ Image Upload
+
+✔ React
+
+✔ Express.js
+
+✔ MongoDB
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshkumar6969&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumar6969&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar6969&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -106,7 +129,9 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harshkumar6969&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshkumar6969&theme=tokyonight&row=1&column=7&no-frame=true"/>
+
 </p>
 
 ---
@@ -114,18 +139,24 @@
 # 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshkumar6969&theme=tokyo-night"/>
+
 </p>
 
 ---
 
 # 💻 Currently Working On
 
-- 🚀 Full Stack Applications
-- ⚡ REST APIs
-- 🌐 Real-Time Web Apps
-- 🎨 Modern UI/UX
-- 📚 Learning Advanced Next.js
+🚀 Full Stack Applications
+
+⚡ REST APIs
+
+⚡ Real-Time Applications
+
+⚡ Modern UI/UX
+
+⚡ Backend Development
 
 ---
 
@@ -149,11 +180,17 @@
 
 <div align="center">
 
-📧 **Email:** **harshkumar2005q@gmail.com**
+📧 **Email**
 
-💼 **LinkedIn:** **https://in.linkedin.com/in/harsh-kumar-b523bb351**
+**harshkumar2005q@gmail.com**
 
-🌐 **GitHub:** **https://github.com/harshkumar6969**
+💼 **LinkedIn**
+
+**https://in.linkedin.com/in/harsh-kumar-b523bb351**
+
+🌐 **GitHub**
+
+**https://github.com/harshkumar6969**
 
 </div>
 
@@ -161,10 +198,10 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=harshkumar6969&style=for-the-badge&color=blue"/>
+![](https://komarev.com/ghpvc/?username=harshkumar6969&style=for-the-badge&color=blue)
 
 ### ⭐ Thanks for visiting my profile! ⭐
 
-### **Code • Learn • Build • Repeat 🚀**
+**"Code • Learn • Build • Repeat" 🚀**
 
 </div>
