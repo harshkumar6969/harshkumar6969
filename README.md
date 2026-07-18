@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
 
-<h3 align="center">🚀 Full Stack Developer • B.Tech CSE Student • India</h3>
+<h3 align="center">🚀 Full Stack Developer • B.Tech CSE Student • Chandigarh, India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;React+Developer;Node.js+Developer;Always+Learning+New+Things&center=true&width=550&height=45&color=00F7FF&vCenter=true&size=22">
