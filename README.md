@@ -12,27 +12,29 @@
 
 # 💫 About Me
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<p align="right">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="320"/>
+</p>
 
-🎓 B.Tech Computer Science Engineering Student
+🎓 **B.Tech Computer Science Engineering Student**
 
-💻 Passionate Full Stack Web Developer
+💻 Passionate **Full Stack Web Developer**
 
-🌱 Currently learning
+🌱 Currently Learning
 
-- Advanced React
-- Next.js
-- Backend Architecture
+- React & Next.js
+- Backend Development
+- TypeScript
+- REST APIs
 - System Design
 
-🔥 Love solving real-world problems through code.
+🔥 Love building real-world applications with clean UI and scalable backend.
 
-🎯 Goal:
-Become a Software Engineer and contribute to impactful products.
+🎯 **Goal:** Become a Software Engineer and contribute to impactful products.
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 ### Frontend
 
@@ -58,70 +60,45 @@ Become a Software Engineer and contribute to impactful products.
 
 ## 🏡 ReadyNest Form Builder
 
-✔ Drag & Drop Form Builder
-
-✔ Authentication
-
-✔ Responsive UI
-
-✔ TypeScript
-
-✔ Modern Dashboard
-
----
+- Drag & Drop Form Builder
+- Authentication
+- Responsive UI
+- TypeScript
+- Modern Dashboard
 
 ## 🌐 SyncSphere
 
-✔ Real-Time Collaboration
-
-✔ Socket.IO
-
-✔ Express.js
-
-✔ MongoDB
-
-✔ REST APIs
-
----
+- Real-Time Collaboration
+- Socket.IO
+- Express.js
+- MongoDB
+- REST APIs
 
 ## 🏫 Smart Campus Utility App
 
-✔ Student Utility Platform
-
-✔ Responsive Dashboard
-
-✔ Modern UI
-
----
+- Student Utility Platform
+- Responsive Dashboard
+- Modern UI
 
 ## 📸 Mini Instagram Clone
 
-✔ User Authentication
-
-✔ Image Upload
-
-✔ React
-
-✔ Express.js
-
-✔ MongoDB
+- Authentication
+- Image Upload
+- React
+- Express.js
+- MongoDB
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshkumar6969&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumar6969&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar6969&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -129,9 +106,7 @@ Become a Software Engineer and contribute to impactful products.
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshkumar6969&theme=tokyonight&row=1&column=7&no-frame=true"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=harshkumar6969&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -139,24 +114,18 @@ Become a Software Engineer and contribute to impactful products.
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshkumar6969&theme=tokyo-night"/>
-
 </p>
 
 ---
 
 # 💻 Currently Working On
 
-🚀 Full Stack Applications
-
-⚡ REST APIs
-
-⚡ Real-Time Applications
-
-⚡ Modern UI/UX
-
-⚡ Backend Development
+- 🚀 Full Stack Applications
+- ⚡ REST APIs
+- 🌐 Real-Time Web Apps
+- 🎨 Modern UI/UX
+- 📚 Learning Advanced Next.js
 
 ---
 
@@ -180,17 +149,11 @@ Become a Software Engineer and contribute to impactful products.
 
 <div align="center">
 
-📧 **Email**
+📧 **Email:** **harshkumar2005q@gmail.com**
 
-**harshkumar2005q@gmail.com**
+💼 **LinkedIn:** **https://in.linkedin.com/in/harsh-kumar-b523bb351**
 
-💼 **LinkedIn**
-
-**https://in.linkedin.com/in/harsh-kumar-b523bb351**
-
-🌐 **GitHub**
-
-**https://github.com/harshkumar6969**
+🌐 **GitHub:** **https://github.com/harshkumar6969**
 
 </div>
 
@@ -198,10 +161,10 @@ Become a Software Engineer and contribute to impactful products.
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=harshkumar6969&style=for-the-badge&color=blue)
+<img src="https://komarev.com/ghpvc/?username=harshkumar6969&style=for-the-badge&color=blue"/>
 
 ### ⭐ Thanks for visiting my profile! ⭐
 
-**"Code • Learn • Build • Repeat" 🚀**
+### **Code • Learn • Build • Repeat 🚀**
 
 </div>
